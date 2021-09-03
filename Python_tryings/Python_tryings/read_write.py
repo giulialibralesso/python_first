@@ -1,4 +1,3 @@
-import re
 phrase1 = 'hello you'
 phrase2 = 'goodbye you'
 name = input('Enter a file: ')
